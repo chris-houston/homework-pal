@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Stay up to date with all the new changes with season 8! Winter has come to the map and changes are happening every week. Daily Llama for Fortnite is on its way to being the #1 unofficial Fortnite companion app by continuing to add new features.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -47,16 +47,12 @@ features                                  :
     description                           : Where we landing? Spin the wheel to decide where to land!
     fontawesome_icon_name                 : map
 
-  - title                                 : View Items
-    description                           : View items in detail and see the shop history for the item!
-    fontawesome_icon_name                 : adjust
-
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               :                     # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
