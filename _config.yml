@@ -39,7 +39,7 @@ features                                  :
     description                           : Calculate future grades with ease!
     fontawesome_icon_name                 : calculator
 
-  - title                                 : All your grades
+  - title                                 : All Your Grades
     description                           : Keep track of all your grades in detail for each course!
     fontawesome_icon_name                 : graduation-cap
 
