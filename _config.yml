@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 1442410668                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1340538392                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           :  Grade Pal is the &#35;1 way to keep track of your grades and calculate future grades. Stay on top of this semester with Grade Pal! 
+app_description                           :  Keeping track of school assignments shouldn't be hard. Keep it simple with Homework Pal.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -31,17 +31,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Courses
-    description                           : See all your courses at a glance!
-    fontawesome_icon_name                 : book-open
+  - title                                 : Overview
+    description                           : See if you have anything due today, tomorrow, or this week at a glance!
+    fontawesome_icon_name                 : chart-pie
     
-  - title                                 : Calculate Grades
-    description                           : Calculate future grades with ease!
-    fontawesome_icon_name                 : calculator
+  - title                                 : View All Assignments
+    description                           : Keep track of all your assignments and when they are due!
+    fontawesome_icon_name                 : pencil-ruler
 
-  - title                                 : All Your Grades
-    description                           : Keep track of all your grades in detail for each course!
-    fontawesome_icon_name                 : graduation-cap
+  - title                                 : Complete With A Tap
+    description                           : Easily complete assignments by tapping the giant checkmark!
+    fontawesome_icon_name                 : check
 
 
 # Theme Settings
@@ -57,7 +57,7 @@ device_color                              : black                               
 
 body_background_color                     : "#f7f7f7"
 
-link_color                                : "#D2423E"
+link_color                                : "#2095F2"
 
 app_title_color                           : "#000000"
 app_price_color                           : "#333333"
@@ -67,7 +67,7 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#D2423E"
+feature_icons_background_color            : "#2095F2"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
