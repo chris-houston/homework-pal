@@ -53,12 +53,12 @@ topbar_transparency                       : 0.05
 topbar_title_color                        : "#000000"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#555555"
+cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#000000"
+body_background_color                     : "#eeeeee"
 
 link_color                                : "#15B8F1"
 
