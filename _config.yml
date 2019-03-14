@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : Stats
     description                           : Search any player to see in depth stats!
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : bar-chart
 
   - title                                 : Location Wheel
     description                           : Where we landing? Spin the wheel to decide where to land!
