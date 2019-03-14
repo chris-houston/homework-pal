@@ -33,7 +33,7 @@ features                                  :
 
   - title                                 : Daily Fortnite News
     description                           : Stay up to date with the new season of Fortnite with daily news articles!
-    fontawesome_icon_name                 : fa-newspaper-o
+    fontawesome_icon_name                 : newspaper
     
   - title                                 : Item Shop
     description                           : View the live item shop and never miss an item!
@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : Stats
     description                           : Search any player to see in depth stats!
-    fontawesome_icon_name                 : fa-bar-chart
+    fontawesome_icon_name                 : chart-bar
 
   - title                                 : Location Wheel
     description                           : Where we landing? Spin the wheel to decide where to land!
